@@ -1,5 +1,5 @@
 # Nand2Tetris
-Compiler for Jack language, written on Julia language
+Compiler for Jack language, written in Julia 
 
 
 This is a project in Julia that my friend and I made in college, 
